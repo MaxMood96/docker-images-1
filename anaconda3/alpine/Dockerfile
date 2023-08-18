@@ -1,4 +1,4 @@
-FROM frolvlad/alpine-glibc:alpine-3.17
+FROM frolvlad/alpine-glibc:alpine-3.17_glibc-2.34
 
 LABEL maintainer="Anaconda, Inc"
 ENV ANACONDA_VERSION 2021.05
